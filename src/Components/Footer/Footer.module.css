@@ -1,0 +1,12 @@
+.footer{
+    background-image: url("../../Assets/jffooter.png");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height:300px;
+    text-align: center;
+}
+
+.footer h3{
+    color:#EBAC0A;
+    font-size: 70px;
+}
